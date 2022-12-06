@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./assets/port1.jpeg" width="700" title="hover text">
-  <img src="./assets/port0.jpeg" width="700" alt="accessibility text">
+  <img src="./assets/port.jpeg" width="700" alt="accessibility text">
   <img src="./assets/port3.jpeg" width="700" alt="accessibility text">
 </p>
 
